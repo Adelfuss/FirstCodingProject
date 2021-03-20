@@ -1,0 +1,26 @@
+.menu{
+	display: inline-block;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.menu {
+	vertical-align: middle;
+}
+.menu__list{
+	padding-left: 0px;
+}
+.menu__item{
+	display: inline-block;
+	/*color: white;*/
+	width: 150px;
+	height: 80px;
+	border:1px solid white;
+	text-align: center;
+	line-height: 82px;
+}
+.menu__link{
+	color: white;
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+}

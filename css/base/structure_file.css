@@ -1,0 +1,57 @@
+html , body{
+	height: 100%;
+	width: 100%;
+}
+body{
+	background-color: #F6F0F0;
+}
+ul{
+	list-style: none;
+}
+p{
+	font-family: 'Roboto' , Arial , sans-serif;
+	font-style: normal;
+	font-weight: 500px;
+}
+.wrapper{
+	background-image: url('../../img/817598.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 5;
+	min-width: 1100px;
+	overflow: hidden;
+	min-height: 100%;
+}
+.container{
+	width: 1060px;
+	margin: 0 auto;
+}
+.clearfix:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.logo{
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border:2px solid #000000;
+	font-size: 0px;
+}
+.logo {
+	vertical-align: middle;
+}
+.logo__img{
+	width: 130px;
+	height: 100px;
+}
+.img-class{
+	outline: 2px solid #666; 
+	border:10px solid white;
+}
+.empty{
+	height: 100px;
+}
+
+
+

@@ -1,0 +1,20 @@
+.footer__about{
+	display: inline-block;
+	width: 280px;
+	/*height: 100px;*/
+	vertical-align: middle;
+	text-align: center;
+	margin-left: 50px;
+}
+.footer__contacts:first-child{
+	margin-bottom: 10px;
+}
+.footer__phone-link , .footer__email-link{
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+}
+.footer__phone , .footer__email{
+	color: white;
+	font-weight: 600;
+}

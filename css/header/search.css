@@ -1,0 +1,6 @@
+.search{
+	display: inline-block;
+}
+.search__input {
+	border-radius: 10px;
+}

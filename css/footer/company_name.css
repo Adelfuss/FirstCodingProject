@@ -1,0 +1,16 @@
+.footer__company-name {
+	height: 100px;
+	width: 344px;
+	color: white;
+	line-height: 100px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 180px;
+	font-family: 'Roboto' , Arial , sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+}
+
+

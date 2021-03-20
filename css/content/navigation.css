@@ -1,0 +1,39 @@
+.navigation{
+	float: left;
+	width: 20%;
+}
+.aside-nav__item{
+	margin-bottom: 20px;
+}
+.aside-nav__link{
+	text-decoration: none;
+}
+.aside-nav__img , .aside-nav__text{
+	display: inline-block;
+	vertical-align: middle;
+}
+.aside-nav__img{
+	width: 30px;
+	height: 30px;
+}
+.aside-nav__text{
+	font-family: 'Muli' , Arial , sans-serif;
+	font-weight: 600;
+	font-style: italic;
+}
+.aside-nav__img__first{
+	background-image: url('https://img.icons8.com/ultraviolet/30/000000/us-dollar.png');
+}
+.aside-nav__img__second{
+	background-image: url('https://img.icons8.com/ultraviolet/30/000000/swedish-krona.png');
+}
+.aside-nav__img__third{
+	background-image: url('https://img.icons8.com/ultraviolet/30/000000/bitcoin.png');
+}
+.aside-nav__link:hover .aside-nav__img{
+	background-image: url('https://img.icons8.com/ultraviolet/30/000000/withdrawal.png');
+}
+
+
+
+
